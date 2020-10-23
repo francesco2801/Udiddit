@@ -10,6 +10,8 @@ This project consists of improving a social news aggregation, web content rating
 
 It is currently using a risky and unreliable Postgres database schema to store the forum posts, discussions, and votes made by their users about different topics.
 
+
+
 The project is divided into 3 steps:
 
 Part I - Investigate the existing schema
