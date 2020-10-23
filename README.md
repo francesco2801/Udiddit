@@ -12,6 +12,8 @@ It is currently using a risky and unreliable Postgres database schema to store t
 
 
 
+
+
 The project is divided into 3 steps:
 
 Part I - Investigate the existing schema
