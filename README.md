@@ -22,5 +22,12 @@ Part II - Create the DDL for your new schema
 
 Part III - Migrate the provided data (DML, DQL)
 
+# Files used
+Udiddit.docx
+
+PART_I.sql
+PART_II.sql
+PART_III.qsl
+
 # Languages
 SQL
