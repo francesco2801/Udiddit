@@ -6,7 +6,7 @@
 Udiddit
 
 # Description
-This project consists of improving a social news aggregation, web content rating, and discussion website named "Udiddit".
+This project consists of improving the schema of a social news aggregation, web content rating, and discussion website named "Udiddit".
 
 It is currently using a risky and unreliable Postgres database schema to store the forum posts, discussions, and votes made by their users about different topics.
 
