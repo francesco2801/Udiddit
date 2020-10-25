@@ -29,7 +29,7 @@ PART_I.sql
 
 PART_II.sql
 
-PART_III.qsl
+PART_III.sql
 
 # Languages
 SQL
